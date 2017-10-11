@@ -1,0 +1,21 @@
+[{
+        "route": "1",
+        "driver": "Manjunath",
+        "mobile": "9948811272",
+        "time": ["5:30pm", "5:50pm", "6:05pm", "6:10pm", "6:15pm", "6:30pm"],
+        "place": ["Infosys Gate 6", "Hosa Road", "Kudlu Gate", "Singasandra", "Bommanahalli", "Silkboard Junction"]
+    },
+    {
+        "route": "2",
+        "driver": "Shanthakumar",
+        "mobile": "9848711372",
+        "time": ["5:30pm", "5:50pm", "6:05pm", "6:10pm", "6:15pm", "6:30pm"],
+        "place": ["Infosys Gate 6", "DMart", "Huskur Gate", "Anantha Nagar Temple", "Grand Mart", "Sampige Nagar"]
+    },
+    {
+        "route": "3",
+        "driver": "Lalvin",
+        "mobile": "9112729488",
+        "time": ["5:30pm", "5:50pm", "6:05pm", "6:10pm", "6:15pm", "6:30pm"],
+        "place": ["Infosys Gate 6", "Veerasandra", "Biocon", "Hebbagodi", "Bommasandra", "Narayana Hridayalaya"]
+    }]

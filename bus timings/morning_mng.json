@@ -1,0 +1,21 @@
+[{
+        "route": "1",
+        "driver": "Sudheer",
+        "mobile": "9948811272",
+        "time": ["7:55am", "8:00am", "8:05am", "8:10am", "8:15am", "8:45am"],
+        "place": ["Kottara Infosys", "Urwa Stores", "Lady Hill", "Lalbag", "PVS", "Infosys SEZ"]
+    },
+    {
+        "route": "2",
+        "driver": "Gopinath",
+        "mobile": "9848711372",
+        "time": ["7:55am", "8:00am", "8:05am", "8:10am", "8:15am", "8:45am"],
+        "place": ["Landlinks Township", "Kuntikana Junction", "Baliga Stores", "KSRTC", "Besent", "Infosys SEZ"]
+    },
+    {
+        "route": "3",
+        "driver": "Vitthal",
+        "mobile": "9112729488",
+        "time": ["7:55am", "8:00am", "8:05am", "8:10am", "8:15am", "8:45am"],
+        "place": ["Kottara Cross", "Baliga Stores", "Saibeen Complex", "Deepa Comforts", "Jyothi Circle", "Infosys SEZ"]
+    }]

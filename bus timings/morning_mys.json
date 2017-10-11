@@ -1,0 +1,14 @@
+[{
+        "route": "1",
+        "driver": "Ramesh",
+        "mobile": "9911272488",
+        "time": ["7:55am", "8:00am", "8:05am", "8:10am", "8:15am", "8:45am"],
+        "place": ["Ramaswamy circle", "Kajjihundi", "Gokulam", "BM Shree Nagar","Meenakunte", "Infosys Mysore - Hebbal Electronics City - Hootagalli"]
+    },
+    {
+        "route": "2",
+        "driver": "Mahesh",
+        "mobile": "9848727113",
+        "time": ["7:55am", "8:00am", "8:05am", "8:10am", "8:15am", "8:45am"],
+        "place": ["Kuvempu Nagar", "Rajarajeshwari Nagar", "Bogadi 2nd stage", "Vijayanagar", "Vani Vilas Layout", "Infosys Mysore - Hebbal Electronics City - Hootagalli"]
+    }]
